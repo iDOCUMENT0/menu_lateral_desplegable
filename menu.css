@@ -23,12 +23,12 @@ margin:0px
 .barra  li{
     /*Velocidad de transicion del contenido*/
     transition:all .3s;
-    
+    list-style: none; 
 }
 
 .barra a{
     text-decoration: none;
-    list-style: none; 
+    
     font-weight: normal;
     
     /*La letra crece con el menu de esta manera no se va a ver como se ajusta al margen mientras crece*/
